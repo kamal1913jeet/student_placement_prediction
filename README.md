@@ -139,8 +139,9 @@ The Streamlit application provides:
 - Deploy the application online.
 - Compare multiple Machine Learning algorithms.
 - Add real-time placement analytics dashboard.
-
-# 👨‍💻 Author
+# TECH TRAINER
+**KAMALJEET KAUR**
+DEVELOPER BY
 Garima Singh
 
 # 📜 Conclusion
